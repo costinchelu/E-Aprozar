@@ -1,4 +1,4 @@
-# Proiect pentru Afaceri Electronice (master BDSA)
+# Exemplu - proiect Spring + JSP + Spring Security + Vanilla JDBC
 
 
 > Aplicație cu rol de demonstrare a componentelor unui magazin online.
